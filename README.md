@@ -1,20 +1,23 @@
-# Getting Started
-Install the dependencies and run the project in watch mode
+# My First Project Using React
+
+This is my first project using React, and it serves as a record of all the trips I took during my time studying abroad in Madrid. The focus of this project was to build and enhance my skills in creating custom components, using props, and managing data within a React application. The application displays a collection of trips, where each trip is described by an image, a location, a description, dates of the trip, and a clickable link to the location.
+
+## Technologies Used
+- React: For building user interfaces and managing component states.
+- HTML/CSS: For structuring and styling the application. I used CSS Flexbox for formatting the reused "cards"
+- JavaScript: For adding interactivity and managing the data within the application.
+
+## Test it out!
+
+If you have Node.js and npm installed on your machine, you can get a copy of this project up and running with a few simle steps:
+
+1. Clone the repository:
+
 ```
-npm install
-npm run build # or watch to rebuild on change
-open index.html
+git clone https://github.com/your-username/travel-journal.git
+cd travel-journal
 ```
-Note that using Webpack is obselete and this archive has been provided
-for compatibility reasons. Prefer using Vite, check it at https://vitejs.dev
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+2. Install dependencies using `npm install`
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+3. Start the development server with `npm start`
