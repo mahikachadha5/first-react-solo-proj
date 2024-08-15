@@ -14,7 +14,7 @@ If you have Node.js and npm installed on your machine, you can get a copy of thi
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/travel-journal.git
+git clone https://github.com/mahikachadha5/first-react-solo-proj.git
 cd travel-journal
 ```
 
