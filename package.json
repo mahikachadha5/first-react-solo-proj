@@ -1,6 +1,7 @@
 {
   "name": "Scrim-s005kmodh3",
   "description": "https://v2.scrimba.com/s005kmodh3",
+  "homepage": "https://mahikachadha5.github.io/first-react-solo-proj", 
   "scripts": {
     "watch": "webpack -w",
     "build": "webpack"
